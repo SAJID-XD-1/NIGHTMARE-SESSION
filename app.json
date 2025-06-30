@@ -1,0 +1,23 @@
+
+{
+    "name": "NIGHTMARE-SESSION",
+    "description": "Web Session Generator",
+    "logo": "image url",
+    "repository": "https://github.com/SAJID-XD-1/NIGHTMARE-SESSION",
+    "keywords": ["𝙎𝘼𝙅𝙄𝘿-𝙓𝘿"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "Just Leave This Blank",
+        "value": "",
+        "required": false 
+      }
+    }   
+
+}
