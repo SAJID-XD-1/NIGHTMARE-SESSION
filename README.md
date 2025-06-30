@@ -12,6 +12,14 @@
 </a>
 
 
+<p align="center">
+    <strong>1. FORK REPOSITORY</strong>
+  <br>
+    <a href="https://github.com/SAJID-XD-1/NIGHTMARE-SESSION/fork" target="_blank">
+        <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
+    </a>
+</p>
+
 # `Owner`
 
  <a href="https://github.com/SAJID-XD-1"><img src="https://postimg.cc/18MzDFDs" width="250" height="250" alt="SAJID XD"/></a>
