@@ -1,14 +1,14 @@
 {
   "description": "NIGHTMARE-SESSION",
-  "main": "./sajid.js",
+  "main": "./malvin.js",
   "type": "commonjs",
   "engines": {
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "pm2 start sajid.js --deep-monitoring --attach --name sajid",
-    "stop": "pm2 stop sajid",
-    "restart": "pm2 restart sajid"
+    "start": "pm2 start malvin.js --deep-monitoring --attach --name malvin",
+    "stop": "pm2 stop malvin",
+    "restart": "pm2 restart malvin"
   },
   "author": "𝙎𝘼𝙅𝙄𝘿-𝙓𝘿",
   "license": "GPL-3.0 license",
